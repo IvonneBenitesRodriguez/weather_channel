@@ -1,0 +1,196 @@
+.container {
+    padding: 0;
+    margin: 0;
+    background: radial-gradient(
+      328px at 2.9% 15%,
+      rgb(191, 224, 251) 0%,
+      rgb(232, 233, 251) 25.8%,
+      rgb(252, 239, 250) 50.8%,
+      rgb(234, 251, 251) 77.6%,
+      rgb(240, 251, 244) 100.7%
+    );
+  }
+  
+  h1 {
+    color: #fc7978;
+    margin-top: 40px;
+    margin-bottom: 25px;
+  }
+  
+  i {
+    position: relative;
+    right: -30px;
+    top: 10px;
+    font-size: 18px;
+    color: #fc7978;
+  }
+  
+  .fa-sun {
+    font-size: 80px;
+    color: #f9ed69;
+    margin-top: -16px;
+    margin: -10px;
+    margin-bottom: 20px;
+  }
+  
+  .degree-sun {
+    margin-top: 25px;
+    color: #fc7978;
+    font-weight: bold;
+  }
+  
+  .humidity {
+    color: #fc7978;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .degree-humidity {
+    color: #fc7978;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .form-control {
+    width: 300px;
+    margin-right: 70px;
+  }
+  
+  .city {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #fc7978;
+    font-weight: bold;
+  }
+  
+  .day {
+    margin-left: 20px;
+    color: #fc7978;
+    font-weight: bold;
+  }
+  
+  .time {
+    margin-left: 20px;
+    color: #fc7978;
+    font-weight: bold;
+  }
+  
+  .weather {
+    margin-left: 20px;
+    color: #fc7978;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .weather-fiveDays-forecast {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  .weather-information {
+    margin-bottom: 30px;
+  }
+  
+  .day-forecast-one {
+    color: #fc7978;
+    font-weight: bold;
+    padding: 0px;
+  }
+  
+  .day-forecast {
+    color: #fc7978;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .fa-cloud-sun-rain {
+    font-size: 30px;
+    color: #118df0;
+  }
+  
+  .fa-cloud {
+    font-size: 30px;
+    color: #118df0;
+  }
+  
+  .fa-sun {
+    font-size: 30px;
+  }
+  
+  .fa-bolt {
+    font-size: 30px;
+    color: #118df0;
+  }
+  
+  .fa-cloud-moon {
+    font-size: 20px;
+    color: #118df0;
+  }
+  
+  .images-fiveDays-monday {
+    margin-left: -29px;
+  }
+  
+  .images-fiveDays-wednesday {
+    margin-top: 6px;
+    margin-left: 14px;
+  }
+  
+  .images-fiveDays-friday {
+    margin-left: -11px;
+  }
+  
+  .images-fiveDays-saturday {
+    margin-left: 6px;
+    margin-top: 3px;
+  }
+  
+  .degrees-days {
+    color: #fc7978;
+    font-weight: bold;
+  }
+  
+  .social-media-two {
+    right: 10%;
+    top: 20%;
+  }
+  
+  .social-media ul {
+    position: fixed;
+  }
+  
+  .social-media ul li {
+    list-style: none;
+  }
+  
+  .weather-app {
+    border: 1px solid #fc7978;
+    padding: 20px;
+  }
+  
+  .units a {
+    text-decoration: none;
+    color: #fc7978;
+  }
+  
+  .btn-success {
+    margin-left: 4px;
+  }
+  #temperature {
+    margin-right: 0px;
+    font-size: 20px;
+  }
+  .link-name{
+      font-size: 15px;
+      font-family: monospace;
+      color:#f76b8a;
+      margin-top: 11px;
+
+  }
+  .link-author {
+      font-size: 15px;
+      font-family: monospace;
+      margin-top: 11px;
+ 
+  }
